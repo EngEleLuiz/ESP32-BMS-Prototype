@@ -1,0 +1,14 @@
+# Arduino/ESP32 build artifacts
+build/
+bin/
+*.elf
+*.bin
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.pio/
